@@ -1,0 +1,7 @@
+CAFÉ BRUMA — SITIO WEB ESTÁTICO
+
+Para abrir el sitio: extrae el ZIP y abre index.html con doble clic en un navegador moderno.
+
+La estructura css/, js/ e img/ debe permanecer junto a index.html. Las diez páginas HTML se enlazan entre sí y el sitio no requiere servidor, instalación ni conexión a internet para cargar los recursos locales.
+
+El formulario valida los datos en el navegador; no envía ni guarda mensajes. Dirección, horario, precios y reseñas son datos ficticios de la práctica.
