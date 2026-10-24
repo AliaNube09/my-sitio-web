@@ -1,0 +1,7 @@
+CAFÉ BRUMA — SITIO WEB ESTÁTICO
+
+Para abrir el sitio en Android, Windows o computadora: extrae el ZIP completo y abre index.html con Chrome, Firefox o Edge. Ese índice incluye las once vistas, estilos, scripts e imágenes dentro del propio HTML; no necesita servidor, instalación, carpetas vecinas ni conexión a internet. Usa los enlaces del menú para cambiar de vista sin salir del índice.
+
+Las otras diez páginas HTML y las carpetas css/, js/ e img/ también se incluyen como archivos separados para inspección o uso desde un servidor. Para la experiencia de un solo toque desde el explorador de archivos del teléfono, abre siempre index.html.
+
+El formulario valida los datos en el navegador; no envía ni guarda mensajes. Dirección, horario, precios y reseñas son datos ficticios de la práctica.
