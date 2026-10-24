@@ -1,0 +1,9 @@
+/* Café Bruma — fondo rosa uniforme en todas las secciones. */
+:root{--paper:#f8d3e0;--paper2:#f8d3e0;--ink:#242b24;--muted:#73776e;--green:#414d3b;--green2:#303b2d;--rust:#a85f43;--line:#e4b4c6;--white:#fbfaf6}
+.site-header{background:#f8d3e0}
+.site-nav{border-top-color:#eec3d3}
+.ticker{background:#f8d3e0;color:#73776e}
+.card,.contact-form,.quote-box,.promo-card,.gallery-tile,.gallery-tile span,.illustration,.site-footer{background:#f8d3e0;border-color:#e4b4c6}
+.contact-form input,.contact-form select,.contact-form textarea{background:#fbfaf6;border-color:#e0b9c8}
+.contact-form input:focus,.contact-form select:focus,.contact-form textarea:focus{outline-color:#c4668e}
+.site-nav a:hover,.site-nav a.current{border-bottom-color:#a85f43}
